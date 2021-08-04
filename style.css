@@ -6,7 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family:'poppins'sans-serif;
-    width:100%;
+    width:auto;
     min-width:1000px;
     height:auto;
 }
