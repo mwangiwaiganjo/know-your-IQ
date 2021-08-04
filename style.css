@@ -1,19 +1,15 @@
 /* importing google fonts */
 @import url('https:fonts.googleapis.com/css2?family=poppins:wght@200;300;400;500;600;700&display=swap');
-.WebContainer{
-    width: 100%;
-    height: auto;
-}
-.articles{
-    width:90%; /*Takes 90% width from WebContainer*/
-    height: auto;
-    margin: auto;
-}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family:'poppins'sans-serif;
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
 }
 
 body{
